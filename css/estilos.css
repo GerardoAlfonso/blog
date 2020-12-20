@@ -2,3 +2,33 @@ body{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
+.contenedor
+{
+    border: 1px solid black;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.header
+{
+    
+    padding: 1em;
+    background-color: lightgray;
+}
+.nav
+{
+    
+}
+.nav ul 
+{
+    text-align: left;
+
+    
+}
+.nav li
+{
+    text-decoration: none;
+    list-style:  none;
+    float: left;
+    display: block;
+    margin-left: 1em;
+}
