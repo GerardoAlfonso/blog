@@ -10,7 +10,6 @@ body{
 }
 .header
 {
-    
     padding: 1em;
     background-color: lightgray;
 }
@@ -21,8 +20,6 @@ body{
 .nav ul 
 {
     text-align: left;
-
-    
 }
 .nav li
 {
@@ -31,4 +28,16 @@ body{
     float: left;
     display: block;
     margin-left: 1em;
+}
+.cuerpo
+{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+.footer
+{
+    text-align: center;
+    background-color: darkgrey;
+    padding: 1em;
+    display: block;
 }
