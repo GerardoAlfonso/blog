@@ -46,7 +46,8 @@ body{
 .footer
 {
     text-align: center;
-    background-color: darkgrey;
+    background-color: black;
+    color: white;
     padding: 1em;
     display: block;
 }
