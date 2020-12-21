@@ -1,28 +1,34 @@
 body{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    background-color: darkgray;
 }
 .contenedor
 {
     border: 1px solid black;
     margin-left: 2em;
     margin-right: 2em;
+    background-color: white;
 }
 .header
 {
-    
     padding: 1em;
     background-color: lightgray;
+    background-color: lightblue;
+    border-bottom: 1px solid black;
+}
+#logo
+{
+    width: 25px;
+    float: left;
 }
 .nav
 {
-    
+
 }
 .nav ul 
 {
     text-align: left;
-
-    
 }
 .nav li
 {
