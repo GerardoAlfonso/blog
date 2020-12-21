@@ -38,3 +38,16 @@ body{
     display: block;
     margin-left: 1em;
 }
+.cuerpo
+{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+.footer
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1em;
+    display: block;
+}
